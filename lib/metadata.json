@@ -1,0 +1,286 @@
+{
+  "vaultName": "Tidefarer",
+  "lastExport": 1739267324214,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon trim-cols minimal-ayu-light minimal-ayu-dark minimal-readable links-int-on links-ext-on full-width-media",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "_Data/Attachments/20240507002815.png",
+    "Codex/Arcane/Stream of Souls.md",
+    "Codex/Characters/Bethany Quinn.md",
+    "Codex/Characters/Dylan Teatrouser.md",
+    "Codex/Characters/Erica Quinn.md",
+    "Codex/Characters/Maria Quinn.md",
+    "Codex/Folk/Anthari.md",
+    "Codex/Folk/Humans.md",
+    "Codex/Folk/Rhokir.md",
+    "Codex/Landmarks/Ebonspire.md",
+    "Codex/Locations/Anchored Isles.md",
+    "Codex/Locations/Blackport.md",
+    "Codex/Locations/Endless Ocean.md",
+    "Codex/Locations/Thelas.md",
+    "Codex/Locations/Tidelands.md",
+    "Codex/Materials/Blue Flint.md",
+    "Codex/Occupations/Tidefarer.md",
+    "Codex/Organizations/Q-Teas Tearooms.md",
+    "Codex/Organizations/Teatrouser Trading Company.md",
+    "Codex/Ships/The Tearoom.md",
+    "Codex/Technologies/Magitech.md",
+    "Codex/Overview.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "_Data/Attachments/20240507002815.png": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 3121313,
+      "exportedPath": "_Data/Attachments/20240507002815.png",
+      "dependencies": []
+    },
+    "Codex/Characters/Dylan Teatrouser.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 203,
+      "exportedPath": "Codex/Characters/Dylan Teatrouser.html",
+      "dependencies": []
+    },
+    "Codex/Folk/Anthari.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 447,
+      "exportedPath": "Codex/Folk/Anthari.html",
+      "dependencies": []
+    },
+    "Codex/Folk/Humans.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 5,
+      "exportedPath": "Codex/Folk/Humans.html",
+      "dependencies": []
+    },
+    "Codex/Locations/Thelas.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 11,
+      "exportedPath": "Codex/Locations/Thelas.html",
+      "dependencies": []
+    },
+    "Codex/Materials/Blue Flint.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 1571,
+      "exportedPath": "Codex/Materials/Blue Flint.html",
+      "dependencies": []
+    },
+    "Codex/Organizations/Teatrouser Trading Company.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 130,
+      "exportedPath": "Codex/Organizations/Teatrouser Trading Company.html",
+      "dependencies": []
+    },
+    "Codex/Overview.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 3011,
+      "exportedPath": "Codex/Overview.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1736372403980,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "Codex/Arcane/Stream of Souls.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 9,
+      "exportedPath": "Codex/Arcane/Stream of Souls.html",
+      "dependencies": []
+    },
+    "Codex/Characters/Bethany Quinn.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 11,
+      "exportedPath": "Codex/Characters/Bethany Quinn.html",
+      "dependencies": []
+    },
+    "Codex/Characters/Erica Quinn.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 931,
+      "exportedPath": "Codex/Characters/Erica Quinn.html",
+      "dependencies": []
+    },
+    "Codex/Characters/Maria Quinn.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 13,
+      "exportedPath": "Codex/Characters/Maria Quinn.html",
+      "dependencies": []
+    },
+    "Codex/Folk/Rhokir.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 382,
+      "exportedPath": "Codex/Folk/Rhokir.html",
+      "dependencies": []
+    },
+    "Codex/Landmarks/Ebonspire.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 326,
+      "exportedPath": "Codex/Landmarks/Ebonspire.html",
+      "dependencies": []
+    },
+    "Codex/Locations/Anchored Isles.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 120,
+      "exportedPath": "Codex/Locations/Anchored Isles.html",
+      "dependencies": []
+    },
+    "Codex/Locations/Blackport.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 848,
+      "exportedPath": "Codex/Locations/Blackport.html",
+      "dependencies": []
+    },
+    "Codex/Locations/Endless Ocean.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 223,
+      "exportedPath": "Codex/Locations/Endless Ocean.html",
+      "dependencies": []
+    },
+    "Codex/Locations/Tidelands.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 26,
+      "exportedPath": "Codex/Locations/Tidelands.html",
+      "dependencies": []
+    },
+    "Codex/Occupations/Tidefarer.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 110,
+      "exportedPath": "Codex/Occupations/Tidefarer.html",
+      "dependencies": []
+    },
+    "Codex/Organizations/Q-Teas Tearooms.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 1088,
+      "exportedPath": "Codex/Organizations/Q-Teas Tearooms.html",
+      "dependencies": []
+    },
+    "Codex/Ships/The Tearoom.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 77,
+      "exportedPath": "Codex/Ships/The Tearoom.html",
+      "dependencies": []
+    },
+    "Codex/Technologies/Magitech.md": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 13,
+      "exportedPath": "Codex/Technologies/Magitech.html",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1739267324214,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    }
+  }
+}
